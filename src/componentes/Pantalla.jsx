@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import '../styles/calculator.css'
 
 const Pantalla = ({ number }) => (
   <div className="display">{number}</div>

@@ -878,12 +878,12 @@ progress {
 
 .g-1,
 .gx-1 {
-  --bs-gutter-x: 0.25rem;
+  --bs-gutter-x: 0.11111rem;
 }
 
 .g-1,
 .gy-1 {
-  --bs-gutter-y: 0.25rem;
+  --bs-gutter-y: 0.11111rem;
 }
 
 .g-2,
@@ -1098,11 +1098,11 @@ progress {
   }
   .g-sm-1,
   .gx-sm-1 {
-    --bs-gutter-x: 0.25rem;
+    --bs-gutter-x: 0.11111rem;
   }
   .g-sm-1,
   .gy-sm-1 {
-    --bs-gutter-y: 0.25rem;
+    --bs-gutter-y: 0.11111rem;
   }
   .g-sm-2,
   .gx-sm-2 {
@@ -1310,11 +1310,11 @@ progress {
   }
   .g-md-1,
   .gx-md-1 {
-    --bs-gutter-x: 0.25rem;
+    --bs-gutter-x: 0.11111rem;
   }
   .g-md-1,
   .gy-md-1 {
-    --bs-gutter-y: 0.25rem;
+    --bs-gutter-y: 0.11111rem;
   }
   .g-md-2,
   .gx-md-2 {
@@ -1522,11 +1522,11 @@ progress {
   }
   .g-lg-1,
   .gx-lg-1 {
-    --bs-gutter-x: 0.25rem;
+    --bs-gutter-x: 0.11111rem;
   }
   .g-lg-1,
   .gy-lg-1 {
-    --bs-gutter-y: 0.25rem;
+    --bs-gutter-y: 0.11111rem;
   }
   .g-lg-2,
   .gx-lg-2 {
@@ -1734,11 +1734,11 @@ progress {
   }
   .g-xl-1,
   .gx-xl-1 {
-    --bs-gutter-x: 0.25rem;
+    --bs-gutter-x: 0.11111rem;
   }
   .g-xl-1,
   .gy-xl-1 {
-    --bs-gutter-y: 0.25rem;
+    --bs-gutter-y: 0.11111rem;
   }
   .g-xl-2,
   .gx-xl-2 {
@@ -1946,11 +1946,11 @@ progress {
   }
   .g-xxl-1,
   .gx-xxl-1 {
-    --bs-gutter-x: 0.25rem;
+    --bs-gutter-x: 0.11111rem;
   }
   .g-xxl-1,
   .gy-xxl-1 {
-    --bs-gutter-y: 0.25rem;
+    --bs-gutter-y: 0.11111rem;
   }
   .g-xxl-2,
   .gx-xxl-2 {
@@ -7623,7 +7623,7 @@ fieldset:disabled .btn {
 }
 
 .gap-1 {
-  gap: 0.25rem !important;
+  gap: 0.11111rem !important;
 }
 
 .gap-2 {
@@ -7823,7 +7823,7 @@ fieldset:disabled .btn {
 }
 
 .m-1 {
-  margin: 0.25rem !important;
+  margin: 0.11111rem !important;
 }
 
 .m-2 {
@@ -7852,8 +7852,8 @@ fieldset:disabled .btn {
 }
 
 .mx-1 {
-  margin-right: 0.25rem !important;
-  margin-left: 0.25rem !important;
+  margin-right: 0.11111rem !important;
+  margin-left: 0.11111rem !important;
 }
 
 .mx-2 {
@@ -7887,8 +7887,8 @@ fieldset:disabled .btn {
 }
 
 .my-1 {
-  margin-top: 0.25rem !important;
-  margin-bottom: 0.25rem !important;
+  margin-top: 0.11111rem !important;
+  margin-bottom: 0.11111rem !important;
 }
 
 .my-2 {
@@ -7921,7 +7921,7 @@ fieldset:disabled .btn {
 }
 
 .mt-1 {
-  margin-top: 0.25rem !important;
+  margin-top: 0.11111rem !important;
 }
 
 .mt-2 {
@@ -7949,7 +7949,7 @@ fieldset:disabled .btn {
 }
 
 .me-1 {
-  margin-right: 0.25rem !important;
+  margin-right: 0.11111rem !important;
 }
 
 .me-2 {
@@ -7977,7 +7977,7 @@ fieldset:disabled .btn {
 }
 
 .mb-1 {
-  margin-bottom: 0.25rem !important;
+  margin-bottom: 0.11111rem !important;
 }
 
 .mb-2 {
@@ -8005,7 +8005,7 @@ fieldset:disabled .btn {
 }
 
 .ms-1 {
-  margin-left: 0.25rem !important;
+  margin-left: 0.11111rem !important;
 }
 
 .ms-2 {
@@ -8033,7 +8033,7 @@ fieldset:disabled .btn {
 }
 
 .p-1 {
-  padding: 0.25rem !important;
+  padding: 0.11111rem !important;
 }
 
 .p-2 {
@@ -8058,8 +8058,8 @@ fieldset:disabled .btn {
 }
 
 .px-1 {
-  padding-right: 0.25rem !important;
-  padding-left: 0.25rem !important;
+  padding-right: 0.11111rem !important;
+  padding-left: 0.11111rem !important;
 }
 
 .px-2 {
@@ -8088,8 +8088,8 @@ fieldset:disabled .btn {
 }
 
 .py-1 {
-  padding-top: 0.25rem !important;
-  padding-bottom: 0.25rem !important;
+  padding-top: 0.11111rem !important;
+  padding-bottom: 0.11111rem !important;
 }
 
 .py-2 {
@@ -8117,7 +8117,7 @@ fieldset:disabled .btn {
 }
 
 .pt-1 {
-  padding-top: 0.25rem !important;
+  padding-top: 0.11111rem !important;
 }
 
 .pt-2 {
@@ -8141,7 +8141,7 @@ fieldset:disabled .btn {
 }
 
 .pe-1 {
-  padding-right: 0.25rem !important;
+  padding-right: 0.11111rem !important;
 }
 
 .pe-2 {
@@ -8165,7 +8165,7 @@ fieldset:disabled .btn {
 }
 
 .pb-1 {
-  padding-bottom: 0.25rem !important;
+  padding-bottom: 0.11111rem !important;
 }
 
 .pb-2 {
@@ -8189,7 +8189,7 @@ fieldset:disabled .btn {
 }
 
 .ps-1 {
-  padding-left: 0.25rem !important;
+  padding-left: 0.11111rem !important;
 }
 
 .ps-2 {
@@ -8628,7 +8628,7 @@ fieldset:disabled .btn {
     gap: 0 !important;
   }
   .gap-sm-1 {
-    gap: 0.25rem !important;
+    gap: 0.11111rem !important;
   }
   .gap-sm-2 {
     gap: 0.5rem !important;
@@ -8791,7 +8791,7 @@ fieldset:disabled .btn {
     margin: 0 !important;
   }
   .m-sm-1 {
-    margin: 0.25rem !important;
+    margin: 0.11111rem !important;
   }
   .m-sm-2 {
     margin: 0.5rem !important;
@@ -8813,8 +8813,8 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .mx-sm-1 {
-    margin-right: 0.25rem !important;
-    margin-left: 0.25rem !important;
+    margin-right: 0.11111rem !important;
+    margin-left: 0.11111rem !important;
   }
   .mx-sm-2 {
     margin-right: 0.5rem !important;
@@ -8841,8 +8841,8 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .my-sm-1 {
-    margin-top: 0.25rem !important;
-    margin-bottom: 0.25rem !important;
+    margin-top: 0.11111rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .my-sm-2 {
     margin-top: 0.5rem !important;
@@ -8868,7 +8868,7 @@ fieldset:disabled .btn {
     margin-top: 0 !important;
   }
   .mt-sm-1 {
-    margin-top: 0.25rem !important;
+    margin-top: 0.11111rem !important;
   }
   .mt-sm-2 {
     margin-top: 0.5rem !important;
@@ -8889,7 +8889,7 @@ fieldset:disabled .btn {
     margin-right: 0 !important;
   }
   .me-sm-1 {
-    margin-right: 0.25rem !important;
+    margin-right: 0.11111rem !important;
   }
   .me-sm-2 {
     margin-right: 0.5rem !important;
@@ -8910,7 +8910,7 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .mb-sm-1 {
-    margin-bottom: 0.25rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .mb-sm-2 {
     margin-bottom: 0.5rem !important;
@@ -8931,7 +8931,7 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .ms-sm-1 {
-    margin-left: 0.25rem !important;
+    margin-left: 0.11111rem !important;
   }
   .ms-sm-2 {
     margin-left: 0.5rem !important;
@@ -8952,7 +8952,7 @@ fieldset:disabled .btn {
     padding: 0 !important;
   }
   .p-sm-1 {
-    padding: 0.25rem !important;
+    padding: 0.11111rem !important;
   }
   .p-sm-2 {
     padding: 0.5rem !important;
@@ -8971,8 +8971,8 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .px-sm-1 {
-    padding-right: 0.25rem !important;
-    padding-left: 0.25rem !important;
+    padding-right: 0.11111rem !important;
+    padding-left: 0.11111rem !important;
   }
   .px-sm-2 {
     padding-right: 0.5rem !important;
@@ -8995,8 +8995,8 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .py-sm-1 {
-    padding-top: 0.25rem !important;
-    padding-bottom: 0.25rem !important;
+    padding-top: 0.11111rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .py-sm-2 {
     padding-top: 0.5rem !important;
@@ -9018,7 +9018,7 @@ fieldset:disabled .btn {
     padding-top: 0 !important;
   }
   .pt-sm-1 {
-    padding-top: 0.25rem !important;
+    padding-top: 0.11111rem !important;
   }
   .pt-sm-2 {
     padding-top: 0.5rem !important;
@@ -9036,7 +9036,7 @@ fieldset:disabled .btn {
     padding-right: 0 !important;
   }
   .pe-sm-1 {
-    padding-right: 0.25rem !important;
+    padding-right: 0.11111rem !important;
   }
   .pe-sm-2 {
     padding-right: 0.5rem !important;
@@ -9054,7 +9054,7 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .pb-sm-1 {
-    padding-bottom: 0.25rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .pb-sm-2 {
     padding-bottom: 0.5rem !important;
@@ -9072,7 +9072,7 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .ps-sm-1 {
-    padding-left: 0.25rem !important;
+    padding-left: 0.11111rem !important;
   }
   .ps-sm-2 {
     padding-left: 0.5rem !important;
@@ -9205,7 +9205,7 @@ fieldset:disabled .btn {
     gap: 0 !important;
   }
   .gap-md-1 {
-    gap: 0.25rem !important;
+    gap: 0.11111rem !important;
   }
   .gap-md-2 {
     gap: 0.5rem !important;
@@ -9368,7 +9368,7 @@ fieldset:disabled .btn {
     margin: 0 !important;
   }
   .m-md-1 {
-    margin: 0.25rem !important;
+    margin: 0.11111rem !important;
   }
   .m-md-2 {
     margin: 0.5rem !important;
@@ -9390,8 +9390,8 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .mx-md-1 {
-    margin-right: 0.25rem !important;
-    margin-left: 0.25rem !important;
+    margin-right: 0.11111rem !important;
+    margin-left: 0.11111rem !important;
   }
   .mx-md-2 {
     margin-right: 0.5rem !important;
@@ -9418,8 +9418,8 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .my-md-1 {
-    margin-top: 0.25rem !important;
-    margin-bottom: 0.25rem !important;
+    margin-top: 0.11111rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .my-md-2 {
     margin-top: 0.5rem !important;
@@ -9445,7 +9445,7 @@ fieldset:disabled .btn {
     margin-top: 0 !important;
   }
   .mt-md-1 {
-    margin-top: 0.25rem !important;
+    margin-top: 0.11111rem !important;
   }
   .mt-md-2 {
     margin-top: 0.5rem !important;
@@ -9466,7 +9466,7 @@ fieldset:disabled .btn {
     margin-right: 0 !important;
   }
   .me-md-1 {
-    margin-right: 0.25rem !important;
+    margin-right: 0.11111rem !important;
   }
   .me-md-2 {
     margin-right: 0.5rem !important;
@@ -9487,7 +9487,7 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .mb-md-1 {
-    margin-bottom: 0.25rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .mb-md-2 {
     margin-bottom: 0.5rem !important;
@@ -9508,7 +9508,7 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .ms-md-1 {
-    margin-left: 0.25rem !important;
+    margin-left: 0.11111rem !important;
   }
   .ms-md-2 {
     margin-left: 0.5rem !important;
@@ -9529,7 +9529,7 @@ fieldset:disabled .btn {
     padding: 0 !important;
   }
   .p-md-1 {
-    padding: 0.25rem !important;
+    padding: 0.11111rem !important;
   }
   .p-md-2 {
     padding: 0.5rem !important;
@@ -9548,8 +9548,8 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .px-md-1 {
-    padding-right: 0.25rem !important;
-    padding-left: 0.25rem !important;
+    padding-right: 0.11111rem !important;
+    padding-left: 0.11111rem !important;
   }
   .px-md-2 {
     padding-right: 0.5rem !important;
@@ -9572,8 +9572,8 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .py-md-1 {
-    padding-top: 0.25rem !important;
-    padding-bottom: 0.25rem !important;
+    padding-top: 0.11111rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .py-md-2 {
     padding-top: 0.5rem !important;
@@ -9595,7 +9595,7 @@ fieldset:disabled .btn {
     padding-top: 0 !important;
   }
   .pt-md-1 {
-    padding-top: 0.25rem !important;
+    padding-top: 0.11111rem !important;
   }
   .pt-md-2 {
     padding-top: 0.5rem !important;
@@ -9613,7 +9613,7 @@ fieldset:disabled .btn {
     padding-right: 0 !important;
   }
   .pe-md-1 {
-    padding-right: 0.25rem !important;
+    padding-right: 0.11111rem !important;
   }
   .pe-md-2 {
     padding-right: 0.5rem !important;
@@ -9631,7 +9631,7 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .pb-md-1 {
-    padding-bottom: 0.25rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .pb-md-2 {
     padding-bottom: 0.5rem !important;
@@ -9649,7 +9649,7 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .ps-md-1 {
-    padding-left: 0.25rem !important;
+    padding-left: 0.11111rem !important;
   }
   .ps-md-2 {
     padding-left: 0.5rem !important;
@@ -9782,7 +9782,7 @@ fieldset:disabled .btn {
     gap: 0 !important;
   }
   .gap-lg-1 {
-    gap: 0.25rem !important;
+    gap: 0.11111rem !important;
   }
   .gap-lg-2 {
     gap: 0.5rem !important;
@@ -9945,7 +9945,7 @@ fieldset:disabled .btn {
     margin: 0 !important;
   }
   .m-lg-1 {
-    margin: 0.25rem !important;
+    margin: 0.11111rem !important;
   }
   .m-lg-2 {
     margin: 0.5rem !important;
@@ -9967,8 +9967,8 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .mx-lg-1 {
-    margin-right: 0.25rem !important;
-    margin-left: 0.25rem !important;
+    margin-right: 0.11111rem !important;
+    margin-left: 0.11111rem !important;
   }
   .mx-lg-2 {
     margin-right: 0.5rem !important;
@@ -9995,8 +9995,8 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .my-lg-1 {
-    margin-top: 0.25rem !important;
-    margin-bottom: 0.25rem !important;
+    margin-top: 0.11111rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .my-lg-2 {
     margin-top: 0.5rem !important;
@@ -10022,7 +10022,7 @@ fieldset:disabled .btn {
     margin-top: 0 !important;
   }
   .mt-lg-1 {
-    margin-top: 0.25rem !important;
+    margin-top: 0.11111rem !important;
   }
   .mt-lg-2 {
     margin-top: 0.5rem !important;
@@ -10043,7 +10043,7 @@ fieldset:disabled .btn {
     margin-right: 0 !important;
   }
   .me-lg-1 {
-    margin-right: 0.25rem !important;
+    margin-right: 0.11111rem !important;
   }
   .me-lg-2 {
     margin-right: 0.5rem !important;
@@ -10064,7 +10064,7 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .mb-lg-1 {
-    margin-bottom: 0.25rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .mb-lg-2 {
     margin-bottom: 0.5rem !important;
@@ -10085,7 +10085,7 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .ms-lg-1 {
-    margin-left: 0.25rem !important;
+    margin-left: 0.11111rem !important;
   }
   .ms-lg-2 {
     margin-left: 0.5rem !important;
@@ -10106,7 +10106,7 @@ fieldset:disabled .btn {
     padding: 0 !important;
   }
   .p-lg-1 {
-    padding: 0.25rem !important;
+    padding: 0.11111rem !important;
   }
   .p-lg-2 {
     padding: 0.5rem !important;
@@ -10125,8 +10125,8 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .px-lg-1 {
-    padding-right: 0.25rem !important;
-    padding-left: 0.25rem !important;
+    padding-right: 0.11111rem !important;
+    padding-left: 0.11111rem !important;
   }
   .px-lg-2 {
     padding-right: 0.5rem !important;
@@ -10149,8 +10149,8 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .py-lg-1 {
-    padding-top: 0.25rem !important;
-    padding-bottom: 0.25rem !important;
+    padding-top: 0.11111rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .py-lg-2 {
     padding-top: 0.5rem !important;
@@ -10172,7 +10172,7 @@ fieldset:disabled .btn {
     padding-top: 0 !important;
   }
   .pt-lg-1 {
-    padding-top: 0.25rem !important;
+    padding-top: 0.11111rem !important;
   }
   .pt-lg-2 {
     padding-top: 0.5rem !important;
@@ -10190,7 +10190,7 @@ fieldset:disabled .btn {
     padding-right: 0 !important;
   }
   .pe-lg-1 {
-    padding-right: 0.25rem !important;
+    padding-right: 0.11111rem !important;
   }
   .pe-lg-2 {
     padding-right: 0.5rem !important;
@@ -10208,7 +10208,7 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .pb-lg-1 {
-    padding-bottom: 0.25rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .pb-lg-2 {
     padding-bottom: 0.5rem !important;
@@ -10226,7 +10226,7 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .ps-lg-1 {
-    padding-left: 0.25rem !important;
+    padding-left: 0.11111rem !important;
   }
   .ps-lg-2 {
     padding-left: 0.5rem !important;
@@ -10359,7 +10359,7 @@ fieldset:disabled .btn {
     gap: 0 !important;
   }
   .gap-xl-1 {
-    gap: 0.25rem !important;
+    gap: 0.11111rem !important;
   }
   .gap-xl-2 {
     gap: 0.5rem !important;
@@ -10522,7 +10522,7 @@ fieldset:disabled .btn {
     margin: 0 !important;
   }
   .m-xl-1 {
-    margin: 0.25rem !important;
+    margin: 0.11111rem !important;
   }
   .m-xl-2 {
     margin: 0.5rem !important;
@@ -10544,8 +10544,8 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .mx-xl-1 {
-    margin-right: 0.25rem !important;
-    margin-left: 0.25rem !important;
+    margin-right: 0.11111rem !important;
+    margin-left: 0.11111rem !important;
   }
   .mx-xl-2 {
     margin-right: 0.5rem !important;
@@ -10572,8 +10572,8 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .my-xl-1 {
-    margin-top: 0.25rem !important;
-    margin-bottom: 0.25rem !important;
+    margin-top: 0.11111rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .my-xl-2 {
     margin-top: 0.5rem !important;
@@ -10599,7 +10599,7 @@ fieldset:disabled .btn {
     margin-top: 0 !important;
   }
   .mt-xl-1 {
-    margin-top: 0.25rem !important;
+    margin-top: 0.11111rem !important;
   }
   .mt-xl-2 {
     margin-top: 0.5rem !important;
@@ -10620,7 +10620,7 @@ fieldset:disabled .btn {
     margin-right: 0 !important;
   }
   .me-xl-1 {
-    margin-right: 0.25rem !important;
+    margin-right: 0.11111rem !important;
   }
   .me-xl-2 {
     margin-right: 0.5rem !important;
@@ -10641,7 +10641,7 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .mb-xl-1 {
-    margin-bottom: 0.25rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .mb-xl-2 {
     margin-bottom: 0.5rem !important;
@@ -10662,7 +10662,7 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .ms-xl-1 {
-    margin-left: 0.25rem !important;
+    margin-left: 0.11111rem !important;
   }
   .ms-xl-2 {
     margin-left: 0.5rem !important;
@@ -10683,7 +10683,7 @@ fieldset:disabled .btn {
     padding: 0 !important;
   }
   .p-xl-1 {
-    padding: 0.25rem !important;
+    padding: 0.11111rem !important;
   }
   .p-xl-2 {
     padding: 0.5rem !important;
@@ -10702,8 +10702,8 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .px-xl-1 {
-    padding-right: 0.25rem !important;
-    padding-left: 0.25rem !important;
+    padding-right: 0.11111rem !important;
+    padding-left: 0.11111rem !important;
   }
   .px-xl-2 {
     padding-right: 0.5rem !important;
@@ -10726,8 +10726,8 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .py-xl-1 {
-    padding-top: 0.25rem !important;
-    padding-bottom: 0.25rem !important;
+    padding-top: 0.11111rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .py-xl-2 {
     padding-top: 0.5rem !important;
@@ -10749,7 +10749,7 @@ fieldset:disabled .btn {
     padding-top: 0 !important;
   }
   .pt-xl-1 {
-    padding-top: 0.25rem !important;
+    padding-top: 0.11111rem !important;
   }
   .pt-xl-2 {
     padding-top: 0.5rem !important;
@@ -10767,7 +10767,7 @@ fieldset:disabled .btn {
     padding-right: 0 !important;
   }
   .pe-xl-1 {
-    padding-right: 0.25rem !important;
+    padding-right: 0.11111rem !important;
   }
   .pe-xl-2 {
     padding-right: 0.5rem !important;
@@ -10785,7 +10785,7 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .pb-xl-1 {
-    padding-bottom: 0.25rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .pb-xl-2 {
     padding-bottom: 0.5rem !important;
@@ -10803,7 +10803,7 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .ps-xl-1 {
-    padding-left: 0.25rem !important;
+    padding-left: 0.11111rem !important;
   }
   .ps-xl-2 {
     padding-left: 0.5rem !important;
@@ -10936,7 +10936,7 @@ fieldset:disabled .btn {
     gap: 0 !important;
   }
   .gap-xxl-1 {
-    gap: 0.25rem !important;
+    gap: 0.11111rem !important;
   }
   .gap-xxl-2 {
     gap: 0.5rem !important;
@@ -11099,7 +11099,7 @@ fieldset:disabled .btn {
     margin: 0 !important;
   }
   .m-xxl-1 {
-    margin: 0.25rem !important;
+    margin: 0.11111rem !important;
   }
   .m-xxl-2 {
     margin: 0.5rem !important;
@@ -11121,8 +11121,8 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .mx-xxl-1 {
-    margin-right: 0.25rem !important;
-    margin-left: 0.25rem !important;
+    margin-right: 0.11111rem !important;
+    margin-left: 0.11111rem !important;
   }
   .mx-xxl-2 {
     margin-right: 0.5rem !important;
@@ -11149,8 +11149,8 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .my-xxl-1 {
-    margin-top: 0.25rem !important;
-    margin-bottom: 0.25rem !important;
+    margin-top: 0.11111rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .my-xxl-2 {
     margin-top: 0.5rem !important;
@@ -11176,7 +11176,7 @@ fieldset:disabled .btn {
     margin-top: 0 !important;
   }
   .mt-xxl-1 {
-    margin-top: 0.25rem !important;
+    margin-top: 0.11111rem !important;
   }
   .mt-xxl-2 {
     margin-top: 0.5rem !important;
@@ -11197,7 +11197,7 @@ fieldset:disabled .btn {
     margin-right: 0 !important;
   }
   .me-xxl-1 {
-    margin-right: 0.25rem !important;
+    margin-right: 0.11111rem !important;
   }
   .me-xxl-2 {
     margin-right: 0.5rem !important;
@@ -11218,7 +11218,7 @@ fieldset:disabled .btn {
     margin-bottom: 0 !important;
   }
   .mb-xxl-1 {
-    margin-bottom: 0.25rem !important;
+    margin-bottom: 0.11111rem !important;
   }
   .mb-xxl-2 {
     margin-bottom: 0.5rem !important;
@@ -11239,7 +11239,7 @@ fieldset:disabled .btn {
     margin-left: 0 !important;
   }
   .ms-xxl-1 {
-    margin-left: 0.25rem !important;
+    margin-left: 0.11111rem !important;
   }
   .ms-xxl-2 {
     margin-left: 0.5rem !important;
@@ -11260,7 +11260,7 @@ fieldset:disabled .btn {
     padding: 0 !important;
   }
   .p-xxl-1 {
-    padding: 0.25rem !important;
+    padding: 0.11111rem !important;
   }
   .p-xxl-2 {
     padding: 0.5rem !important;
@@ -11279,8 +11279,8 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .px-xxl-1 {
-    padding-right: 0.25rem !important;
-    padding-left: 0.25rem !important;
+    padding-right: 0.11111rem !important;
+    padding-left: 0.11111rem !important;
   }
   .px-xxl-2 {
     padding-right: 0.5rem !important;
@@ -11303,8 +11303,8 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .py-xxl-1 {
-    padding-top: 0.25rem !important;
-    padding-bottom: 0.25rem !important;
+    padding-top: 0.11111rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .py-xxl-2 {
     padding-top: 0.5rem !important;
@@ -11326,7 +11326,7 @@ fieldset:disabled .btn {
     padding-top: 0 !important;
   }
   .pt-xxl-1 {
-    padding-top: 0.25rem !important;
+    padding-top: 0.11111rem !important;
   }
   .pt-xxl-2 {
     padding-top: 0.5rem !important;
@@ -11344,7 +11344,7 @@ fieldset:disabled .btn {
     padding-right: 0 !important;
   }
   .pe-xxl-1 {
-    padding-right: 0.25rem !important;
+    padding-right: 0.11111rem !important;
   }
   .pe-xxl-2 {
     padding-right: 0.5rem !important;
@@ -11362,7 +11362,7 @@ fieldset:disabled .btn {
     padding-bottom: 0 !important;
   }
   .pb-xxl-1 {
-    padding-bottom: 0.25rem !important;
+    padding-bottom: 0.11111rem !important;
   }
   .pb-xxl-2 {
     padding-bottom: 0.5rem !important;
@@ -11380,7 +11380,7 @@ fieldset:disabled .btn {
     padding-left: 0 !important;
   }
   .ps-xxl-1 {
-    padding-left: 0.25rem !important;
+    padding-left: 0.11111rem !important;
   }
   .ps-xxl-2 {
     padding-left: 0.5rem !important;
