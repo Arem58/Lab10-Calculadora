@@ -11,25 +11,34 @@
     height: auto;
     background-color: #1F2224; 
     color: white;
-    padding: 5px 8px 10px 8px;
+    padding: 4px 4px 7px 4px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 .display{
     height: 100px;
     background-color: #2B292A;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
+    color: white;
 }
 .boton_entrada_num{
     width: 98%;
-    height: 80px;
-    font-family: 'Roboto';
-    font-weight: 100;
+    height: 98%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
     color: white;
     border-color: #1D4352;
     background-color: #1D4352;
     border: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .espacioBoton{
     width: 100%;
