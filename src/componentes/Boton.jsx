@@ -1,22 +1,35 @@
-import React from 'react'
-import { FiDelete } from 'react-icons/fi'
-import PropTypes from 'prop-types'
-import '../styles/calculator.css'
+import React from "react";
+import { FiDelete } from "react-icons/fi";
+import PropTypes from "prop-types";
+import "../styles/calculator.css";
 
-const Button = ({
-  title, onClick, description, keycode, onKeyDown,
-}) => {
-  if (description === 'imagen') {
+const Button = (props) => {
+  if (props.description === "imagen") {
     return (
-      <button type="button" onClick={onClick} className="boton_entrada_num" title={description} data-keycode={keycode}>
-        <FiDelete onClick={onClick} />
+      <button
+        type="button"
+        onClick={props.onClick}
+        className="boton_entrada_num"
+        title={props.description}
+        data-keycode={props.keycode}
+      >
+        <FiDelete onClick={props.onClick} data-keycode={props.keycode} />
       </button>
-    )
+    );
   }
   return (
-    <button type="button" onKeyDown={onKeyDown} onClick={onClick} className="boton_entrada_num" title={description} data-keycode={keycode}>{title}</button>
-  )
-}
+    <button
+      type="button"
+      onKeyDown={props.onKeyDown}
+      onClick={props.onClick}
+      className="boton_entrada_num"
+      title={props.description}
+      data-keycode={props.keycode}
+    >
+      {props.title}
+    </button>
+  );
+};
 
 Button.propTypes = {
   title: PropTypes.string,
@@ -24,11 +37,11 @@ Button.propTypes = {
   onKeyDown: PropTypes.func.isRequired,
   description: PropTypes.string,
   keycode: PropTypes.string.isRequired,
-}
+};
 
 Button.defaultProps = {
-  title: 'Predeterminado',
-  description: 'simple',
-}
+  title: "Predeterminado",
+  description: "simple",
+};
 
-export default Button
+export default Button;

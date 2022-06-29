@@ -18,7 +18,7 @@ const getMapKeys = {
     187: { type: 'operation', value: 'sum' },
     67: { type: 'clear', value: 'clear' },
     13: { type: 'result', value: null },
-    8: { type: 'delete', value: null },
+    8: { type: 'delete', value: 'delete' },
     84: { type: 'toggle', value: 'toggle' },
   },
   getButtonTyoe(valeuCode) {
