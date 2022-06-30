@@ -1,11 +1,10 @@
 {
-  "homepage": "https://github.com/Arem58/Lab10-Calculadora#readme",
+  "homepage": "https://Arem58.github.io/Lab10-Calculadora",
   "name": "lab10-calculadora",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "NODE_ENV=development webpack serve",
     "build": "NODE_ENV=production webpack",
