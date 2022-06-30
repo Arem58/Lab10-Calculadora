@@ -63,6 +63,7 @@ const App = () => {
   const handleClick = (event) => {
     // console.log(event.target.dataset.keycode)
     const keycode = getMapKeys.getButtonTyoe(event.target.dataset.keycode)
+    console.log(event)
     handleKey(keycode)
   }
   const handleKeyDonw = (event) => {
@@ -85,7 +86,7 @@ const App = () => {
             <Boton keycode="221" onKeyDown={handleKeyDonw} onClick={handleClick} title="x" />
           </div>
           <div className="col d-flex justify-content-center" style={divHeight}>
-            <Boton keycode="8" onKeyDown={handleKeyDonw} description="imagen" onClick={handleClick} title="%" />
+            <Boton keycode="8" onKeyDown={handleKeyDonw} description="imagen" onClick={handleClick} title="<-" />
           </div>
         </div>
         {/* Teclas 7, 8, 9, X */}

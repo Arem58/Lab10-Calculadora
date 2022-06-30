@@ -13,7 +13,7 @@ const Button = (props) => {
         title={props.description}
         data-keycode={props.keycode}
       >
-        <FiDelete onClick={props.onClick} data-keycode={props.keycode} />
+        <FiDelete />
       </button>
     );
   }
