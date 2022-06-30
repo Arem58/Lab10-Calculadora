@@ -1,10 +1,12 @@
 {
-  "homepage": "https://Arem58.github.io/Lab10-Calculadora",
+  "homepage": "https://github.com/Arem58/Lab10-Calculadora#readme",
   "name": "lab10-calculadora",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "NODE_ENV=development webpack serve",
     "build": "NODE_ENV=production webpack",
     "serve": "webpack serve"
@@ -19,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/Arem58/Lab10-Calculadora/issues"
   },
-  "homepage": "https://github.com/Arem58/Lab10-Calculadora#readme",
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@babel/plugin-proposal-class-properties": "^7.18.6",
@@ -35,6 +36,7 @@
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.1",
     "file-loader": "^6.2.0",
+    "gh-pages": "^4.0.0",
     "html-webpack-plugin": "^5.5.0",
     "ignore-styles": "^5.0.1",
     "mini-css-extract-plugin": "^2.6.1",
